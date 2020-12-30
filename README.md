@@ -4,10 +4,7 @@ I'm Dan Siwiec. Thanks for visiting my profile. ♥
 
 ## 💻 I'm currently working on...
 
-
-## 🌱 I’m currently learning...
-
-Studying for the AWS ML Speciality Certification.
+- Studying for the AWS ML Speciality Certification
 
 
 ## 🤔 I’m looking for help with...
